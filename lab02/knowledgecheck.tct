@@ -1,0 +1,7 @@
+1. pwd
+2. parent directory
+3.overwrite vs append
+4. pipes command output into new command inmput
+5. first will display variable sencond will display literal string
+6. lists files in usr/bin, searches for anything containing word 'python', lists how many instances are found.
+7. home directory on codespaces isn't necessarily the home of the repository for the labs.

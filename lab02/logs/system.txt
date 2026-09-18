@@ -1,0 +1,4 @@
+/workspaces/scripting-for-cybersecurity/lab02/logs
+codespace
+codespaces-c572f2
+Fri Sep 18 08:23:29 UTC 2026

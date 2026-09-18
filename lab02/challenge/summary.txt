@@ -1,0 +1,7 @@
+Cybersecurity CLI Report
+User: codespace
+Host: codespaces-c572f2
+Directory: /workspaces/scripting-for-cybersecurity/lab02/challenge
+Python: /home/codespace/.python/current/bin/python
+Python filenames found: 0
+Python filenames found: 6
